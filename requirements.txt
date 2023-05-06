@@ -1,2 +1,0 @@
-# Minimum packages for azure functions
-azure-functions
